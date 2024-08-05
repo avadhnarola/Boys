@@ -1,0 +1,38 @@
+.fa-clock, .fa-xmark{
+    color: red;
+}
+.fa-check-double{
+    color: yellow;
+}
+.fa-check{
+    color: rgb(4, 180, 4);
+}
+.table {
+    width: 100%;
+    max-width: 55%;
+    margin: auto;
+}
+
+h2 {
+
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-top: 20px;
+}
+
+.button {
+    background-color: gray;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 150px;
+
+}
+
+.cls {
+    display: flex;
+    justify-content: center;
+}
