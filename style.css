@@ -1,11 +1,11 @@
-.fa-clock, .fa-xmark{
+.done{
+    color: rgb(255, 0, 255);
+}
+.completed{
+    color: rgb(0, 17, 255);
+}
+.pending{
     color: red;
-}
-.fa-check-double{
-    color: yellow;
-}
-.fa-check{
-    color: rgb(4, 180, 4);
 }
 .table {
     width: 100%;
