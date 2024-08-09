@@ -1,10 +1,10 @@
 .done{
     color: rgb(255, 0, 255);
 }
-.completed{
+.fa-check{
     color: rgb(34, 196, 34);
 }
-.pending{
+.fa-clock{
     color: red;
 }
 .table {
